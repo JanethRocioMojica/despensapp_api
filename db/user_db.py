@@ -12,10 +12,10 @@ database_users = Dict[str, UserInDB]
 database_users = {
     "tendero1": UserInDB(**{"username": "tendero1",
                             "password": "desten1app",
-                            "balance": 3}),
+                            "balance": 1}),
     "tendero2": UserInDB(**{"username": "tendero2",
                             "password": "desten2app",
-                            "balance": 4}),
+                            "balance": 2}),
 }
 
 
